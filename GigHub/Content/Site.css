@@ -168,13 +168,13 @@ a.follow-link {
     font-size: 15px;
 }
 
-.gigs > li .actions {
+.gigs > div .actions {
     font-size: 15px;
     display: none;
 }
 
 
-.gigs > li:hover .actions {
+.gigs > div:hover .actions {
     display: block;
 }
     
